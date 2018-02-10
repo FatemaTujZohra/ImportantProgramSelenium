@@ -1,4 +1,4 @@
-package trickyrealtimeexcercises;
+package trickyExcercises;
 
 
 import org.openqa.selenium.By;
